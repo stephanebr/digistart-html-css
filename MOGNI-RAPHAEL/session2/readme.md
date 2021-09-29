@@ -23,5 +23,5 @@ Exemple :
 ```
 
 ## Résultat attendu
-![](./resultat.png)
 
+![](./resultat.png)

@@ -10,7 +10,7 @@
 
 ## Instructions
 
-- Ouvrir le fichier `index.html`
+ - Ouvrir le fichier `index.html`
 - Repérer les instructions de l'exercice dans les commentaires `<!-- TODO: Écrire [...] -->`
 - Les instructions commencent toujours par `TODO:`
 - À chaque instruction, écrire le code demandé sur une nouvelle ligne en dessous du commentaire.
