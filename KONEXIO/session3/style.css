@@ -1,0 +1,23 @@
+div{
+    background-color: grey;
+}
+/*Exercice 3
+*/
+.contenu-text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenu-mixte{
+    text-align: center;
+}
+
+#section-1 {
+    color: blue;
+}
+
+#section-2 {
+    color: orange;
+}
+
+#section-3 {
+    color: purple;
+}
