@@ -68,4 +68,9 @@ Dans le fichier `style.css` :
 
 ### Résultat attendu pour l'exercice 4
 
+< head>
+<title>Hello World </title>
+
+      <link rel= "stylesheet" type=texte/css" hef="style.css"/>
+
 ![Résultat de l'exercice 4](./resultats/resultat4.png)

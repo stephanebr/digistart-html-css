@@ -1,0 +1,12 @@
+p {
+  color: red;
+}
+div {
+  background-color: grey;
+  text-align: class= 'contenu-mixte';
+  font-family: Arial;
+  font-size: 18px;
+}
+img {
+  border: solid black 4px;
+}
